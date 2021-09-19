@@ -181,7 +181,7 @@ export default {
     },
     uniswapFactory: gql`
       query {
-        uniswapFactory(id: "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f") {
+        uniswapFactory(id: "0x8d973bAD782c1FFfd8FcC9d7579542BA7Dd0998D") {
           pairCount
         }
       }
